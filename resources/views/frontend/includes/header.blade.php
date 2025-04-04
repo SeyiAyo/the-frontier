@@ -1,7 +1,8 @@
 <nav class="border-b-2 border-gray-200 bg-white shadow-md dark:border-gray-700 dark:bg-gray-900">
     <div class="mx-auto flex max-w-screen-xl flex-wrap items-center justify-between p-4">
         <a class="flex items-center space-x-3 rtl:space-x-reverse" href="/">
-            <img class="h-9" src="{{ asset("img/logo-with-text.jpg") }}" alt="{{ app_name() }} Logo" />
+            <img class="h-9" src="{{ asset("img/ChatGPT Image Apr 4, 2025, 01_02_48 AM.png") }}" alt="{{ app_name() }} Logo" />
+            <span class="self-center text-2xl font-semibold text-gray-900 dark:text-white">NerdHubSpot</span>
         </a>
         <div class="flex items-center justify-end space-x-1 md:order-2 md:space-x-0 rtl:space-x-reverse">
             <button

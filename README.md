@@ -6,16 +6,16 @@ Here Frontend and Backend are completely separated with separate routes, control
 
 ***Please let me know your feedback and comments.***
 
-[![Latest Stable Version](http://poser.pugx.org/nasirkhan/laravel-starter/v)](https://packagist.org/packages/nasirkhan/laravel-starter) [![StyleCI Build](https://github.styleci.io/repos/105638882/shield?style=flat)](https://packagist.org/packages/nasirkhan/laravel-starter) [![License](http://poser.pugx.org/nasirkhan/laravel-starter/license)](https://packagist.org/packages/nasirkhan/laravel-starter) [![PHP Version Require](http://poser.pugx.org/nasirkhan/laravel-starter/require/php)](https://packagist.org/packages/nasirkhan/laravel-starter)
+[![Latest Stable Version](http://poser.pugx.org/nerdhubspot/laravel-starter/v)](https://packagist.org/packages/nerdhubspot/laravel-starter) [![License](http://poser.pugx.org/nerdhubspot/laravel-starter/license)](https://packagist.org/packages/nerdhubspot/laravel-starter) [![PHP Version Require](http://poser.pugx.org/nerdhubspot/laravel-starter/require/php)](https://packagist.org/packages/nerdhubspot/laravel-starter)
 
 
 # Reporting a Vulnerability
-If you discover any security-related issues, please send an e-mail to Nasir Khan Saikat via nasir8891@gmail.com instead of using the issue tracker.
+If you discover any security-related issues, please send an e-mail to nerdhubspot@gmail.com instead of using the issue tracker.
 
 # Appplication Demo
 Check the following demo project. It is just a straight installation of the project without any modification.
 
-Demo URL: https://laravel.nasirkhn.com
+Demo URL: https://nerdhubspot.com
 
 You may use the following account credentials to access the application backend.
 
@@ -161,7 +161,7 @@ Follow the steps mentioned below to install and run the project. You may find mo
 
 1. Open the terminal and run the following command, this will download and install the `Laravel Starter` and run the post-installation commands. 
 ```bash
-composer create-project nasirkhan/laravel-starter
+composer create-project nerdhubspot/laravel-starter
 ```
 2. The default database is `sqlite`, if you want to change please update the database settings at `.env` file
 3. To create a link from the storage directory, run the following command from the project root:
@@ -214,4 +214,3 @@ __Backend Dashboard__
 ---
 
 ![Edit-Posts-Laravel-Starter](https://github.com/nasirkhan/laravel-starter/assets/396987/6421b8e5-3c69-4c1f-9518-875e72be77c0)
-

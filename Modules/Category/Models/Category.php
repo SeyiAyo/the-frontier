@@ -14,7 +14,7 @@ class Category extends BaseModel
     protected $table = 'categories';
 
     /**
-     * Caegories has Many posts.
+     * Categories has Many posts.
      */
     public function posts()
     {
